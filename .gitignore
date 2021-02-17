@@ -7,6 +7,9 @@
 *.vgm
 *.nsf
 
+# Save files
+*.srm
+
 # ROM Files
 *.n64
 *.32x
