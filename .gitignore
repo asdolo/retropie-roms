@@ -1,0 +1,9 @@
+.DS_Store
+._*
+
+# BGM Files
+*.mp3
+
+# ROM Files
+*.n64
+*.32x
