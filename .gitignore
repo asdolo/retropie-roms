@@ -3,6 +3,9 @@
 
 # BGM Files
 *.mp3
+*.spc
+*.vgm
+*.nsf
 
 # ROM Files
 *.n64
